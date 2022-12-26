@@ -6,7 +6,7 @@ such as:
 - networks theory(ICMP,TCP,IP,HTTP,H2,H3,TLS,SSL)
 - cache theory and application(cpu cache,memery cache,redis,memecache,guava,etcd)
 - mq(rabbit,rocket,kafka)
-- data structure adn alg
+- data structure and algorithm
 - virtual container(docker,k8s)
 - microservice(spring ecosystem)
 - distrubute ecosys(zk,distrubute scheduler) and so on
